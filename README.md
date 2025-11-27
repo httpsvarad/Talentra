@@ -39,9 +39,9 @@ Each folder is a standalone project.
 
 ---
 
-# Data Flow Diagram
+# Features
 
-![data_flow](screenshots/data_flow.png)
+![](screenshots/features.png)
 
 ---
 
