@@ -37,10 +37,6 @@ Each folder is a standalone project.
 - Candidate Dashboard  
 - Skill Evaluation + Career Guidance  
 
----
-
-# Features
-
 ![](screenshots/features.png)
 
 ---
