@@ -1,4 +1,4 @@
-# 🚀 Talentra : AI-Powered Recruitment & Career Readiness Platform
+# Talentra : AI-Powered Recruitment & Career Readiness Platform
 
 Talentra is a modular, AI-driven recruitment platform designed to streamline hiring and empower candidates.  
 The system is divided into **three independent modules**, each built and run separately:
@@ -19,7 +19,6 @@ Talentra/
 │── job-portal/
 │── interview-scheduling-module/
 │── ai-career-coach/
-
 
 ````
 
@@ -42,11 +41,11 @@ Each folder is a standalone project.
 
 # Data Flow Diagram
 
-![Features](screenshots/data_flow.png)
+![data_flow](screenshots/data_flow.png)
 
 ---
 
-# ▶️ Running Each Module
+# Running Each Module
 
 ## 1️⃣ **Job Portal**
 
@@ -180,3 +179,9 @@ PORT=<port_number>
 * Custom ranking algorithms
 
 ---
+
+## Conclusion
+
+Talentra brings together three independently developed modules - Job Portal, Interview Scheduling, and AI Career Coach to deliver a unified, intelligent recruitment ecosystem. By combining advanced AI capabilities with automated workflows, it enhances candidate readiness, accelerates hiring, and improves decision-making for recruiters.
+
+This modular architecture ensures flexibility, scalability, and ease of development, allowing each component to evolve independently while still integrating seamlessly into the overall platform.
